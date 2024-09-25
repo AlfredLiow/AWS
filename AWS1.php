@@ -1,6 +1,6 @@
 <?php include("Conf.php");
 session_start();
-include('includes/header.php'); 
+include('header.php'); 
 ?>
 <style>
 
